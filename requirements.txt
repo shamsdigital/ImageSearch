@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+supabase
+torch
+torchvision
+transformers
+Pillow
+requests
+scikit-learn
+numpy
+python-multipart
